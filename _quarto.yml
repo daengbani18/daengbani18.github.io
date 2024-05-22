@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: .
+
+website:
+  title: "Fajar Ciputra Daeng Bani"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: publikasi.qmd
+        text: Home
+
+        
+      
+
+#bibliography: reference.bib
+#nocite: |
+#  @*
+  
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true

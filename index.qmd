@@ -1,0 +1,30 @@
+---
+title: "@daengbani"
+about:
+  template: trestles
+  image: profile.jpeg
+  image-width: 12em
+  image-shape: round
+  links:
+  - icon: twitter
+    text: twitter
+    href: https://twitter.com/daengbani
+  - icon: github
+    text: github
+    href: https://github.com/daengbani  
+  - icon: istagram
+    text: istagram
+    href: https://istagram.com/daengbani  
+  - icon: istagram
+    text: istagram
+    href: https://linkedin.com/Fajar Ciputra Daeng Bani 
+---
+
+## Education
+
+- s1 di mana
+- s2 di mana
+
+## References
+
+- wkwkwk
